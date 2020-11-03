@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cd /usr/share/MACSwitcher/ &&  sudo python3 macs.py
