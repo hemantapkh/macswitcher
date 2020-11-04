@@ -65,7 +65,7 @@ git clone https://github.com/hemantapkh/macswitcher && cd macswitcher && sudo ba
     -R, --random [option/s]    : Set a random MAC address
     ```
 
-*You are only supposed to pass one argument from the main options.*
+    *You are only supposed to pass one argument from the main options.*
       
   - **Random MAC Options**
 
@@ -74,7 +74,7 @@ git clone https://github.com/hemantapkh/macswitcher && cd macswitcher && sudo ba
     --administration <type>  : Choose administrative type [Local/Global]
     ```
 
-*You are supposed to pass these arguments only if `-R` or `--random` is passed from the main options.*
+    *You are supposed to pass these arguments only if `-R` or `--random` is passed from the main options.*
 
   - **Other Options**
 
