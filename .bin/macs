@@ -1,3 +1,8 @@
 #!/bin/bash
 
-cd /usr/share/MACSwitcher/ &&  sudo python3 macs.py
+if [ "$1" = "--uninstall" ]; then
+    sudo bash /usr/share/MACSwitcher/install.sh --uninstall
+
+else
+	sudo python3 /usr/share/MACSwitcher/macs.py
+fi
