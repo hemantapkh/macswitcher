@@ -1,4 +1,6 @@
 <p align="center">
+<img src="https://img.shields.io/badge/platform-linux-blue?style=flat-square" alt="github-profile-readme-generator licence" />
+</a>
 <a href="https://github.com/hemantapkh/macswitcher/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/hemantapkh/macswitcher?style=flat-square" alt="github-profile-readme-generator licence" />
 </a>
@@ -18,7 +20,7 @@
 <img src="https://img.shields.io/github/issues-pr/hemantapkh/macswitcher?style=flat-square" alt="Pull Requests"/>
 </a>
 <a href="https://www.youtube.com/c/H9TechYouTube?sub_confirmation=1" target="blank">
-<img src="https://img.shields.io/badge/Subscribe-H9-red?style=flat-square" alt="Subscribe my channel H9"/>
+<img src="https://img.shields.io/badge/subscribe-H9-red?style=flat-square" alt="Subscribe my channel H9"/>
 </a>
 <p align="center">
  <img src="image/MacsMenu.png" align="center" alt="GitHub Readme Stats" />
