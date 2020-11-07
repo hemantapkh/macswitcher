@@ -11,7 +11,7 @@ else
 		cp install.sh /usr/share/MACSwitcher
 		cp macs.py /usr/share/MACSwitcher
 		cp macvendors.py /usr/share/MACSwitcher
-		cp .bin/macs /usr/bin
+		cp bin/macs /usr/bin
 		chmod +x /usr/bin/macs
 		echo "MACSwitcher installed successfully"
 
