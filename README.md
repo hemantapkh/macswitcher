@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/subscribe-H9-red?style=flat-square" alt="Subscribe my channel H9"/>
 </a>
 <p align="center">
- <img src="image/MacsMenu.png" align="center" alt="GitHub Readme Stats" />
+ <img src="image/MacsMenu.png" align="center" alt="MacSwitcher" />
 <h2 align="center">MACSwitcher - Easy way to spoof MAC address</h2>
 
 </p>
