@@ -129,4 +129,4 @@ Any contributions you make are **greatly appreciated**.
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 -----
-Project Maintainer: [Hemanta Pokharel](https://github.com/hemantapkh/) [[✉️](mailto:hemantapkh@gmail.com) [💬](https://t.me/hemantapkh) [📺](https://youtube.com/h9techyoutube)]
+Project Maintainer: [Hemanta Pokharel](https://github.com/hemantapkh/) [[✉️](mailto:hemantapkh@yahoo.com) [💬](https://t.me/hemantapkh) [📺](https://youtube.com/h9techyoutube)]
